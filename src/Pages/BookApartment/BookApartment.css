@@ -1,0 +1,7 @@
+.book-form input {
+    display: block;
+    line-height: 30px;
+    font-size:20px;
+    margin-bottom: 20px;
+    width: 90%;
+}

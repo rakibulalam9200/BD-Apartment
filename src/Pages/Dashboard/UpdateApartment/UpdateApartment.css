@@ -1,0 +1,11 @@
+.updateApartment form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.updateApartment form input,textarea,Controller{
+    width: 75%;
+    margin-bottom:10px;
+}
