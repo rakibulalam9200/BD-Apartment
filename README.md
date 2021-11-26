@@ -1,5 +1,3 @@
-This is Responsive Apartment Selling website using SPA(Single Page Application). There have two user role Admin and general Users. Admin can manage users and bookings and make another users as a admin. Where users can view apartment details and purchase an Apartment when needed. General User can able to book a Apartment, delete his booking and review in the website. 
-
 # ProjectName: BD Apartment (Apartment Selling Website)
 
 ## Project Live Link: [BD Apartment Client Site](https://bd-apartment.web.app/)
